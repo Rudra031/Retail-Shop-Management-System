@@ -391,9 +391,8 @@ For software inquiries, custom white-label deployments, or to obtain **1-Year** 
 
 | Contact Channel | Details / Direct Link |
 |---|---|
-| **Lead Developer** | **Hunter** |
-| **WhatsApp Direct** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?text=Hello%20Developer,%20I%20am%20interested%20in%20SmartRetail%20POS%20License.) |
-| **Support Email** | [contact@smartretail.com](mailto:contact@smartretail.com) |
+| **Lead Developer** | **Rudra Sarkar** |
+| **Support Email** | [contact@RRUDRA SARKAR](rudrasarkar02@gmail.com) |
 | **Official Website / Repo** | [SmartRetail GitHub Repository](https://github.com/your-username/smart-retail-pos) |
 
 > [!TIP]
