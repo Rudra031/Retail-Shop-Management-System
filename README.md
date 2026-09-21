@@ -72,6 +72,9 @@ SmartRetail includes an offline-first cryptographic licensing engine. Retail sto
 * **Lifetime Access Format (`lifetime`):** Perpetual unrestricted access with no expiration prompts.
 * **7-Day Evaluation Trial:** Automatic grace period on fresh systems before mandatory key activation.
 
+> [!NOTE]
+> 💳 **Pricing:** For license pricing details (1-Year or Lifetime access), please [contact the developer directly](#-developer-contact--license-inquiries).
+
 #### Client & Developer Workflow
 1. **User Finds Machine ID:**
    - The user opens the app or the **Terminal Login screen** and clicks **`🔑 Hardware ID & License`** (or goes to **Settings > Commercial License**).
@@ -387,13 +390,16 @@ Contributions are welcome! Please follow these steps:
 
 ## 📞 Developer Contact & License Inquiries
 
+> [!IMPORTANT]
+> 💰 **For Pricing & Custom Licensing:** Please contact the developer directly via WhatsApp or Email to receive quotation and invoice details for **1-Year Access** or **Lifetime Perpetual Access** packages.
+
 For software inquiries, custom white-label deployments, or to obtain **1-Year** or **Lifetime** commercial license keys, contact the developer directly:
 
 | Contact Channel | Details / Direct Link |
 |---|---|
 | **Lead Developer** | **Rudra Sarkar** |
-| **Support Email** | [contact@RUDRA SARKAR] (rudrasarkar02@gmail.com) |
-| **Official Website / Repo** | [SmartRetail GitHub Repository](https://github.com/Rudra031/Retail-Shop-Management-System/) |
+| **Support Email** | [contact@RudraSarkar](mail:rudrasarkar02@gmail.com) |
+| **Official Website / Repo** | [SmartRetail GitHub Repository](https://github.com/Rudra031/Retail-Shop-Management-System) |
 
 > [!TIP]
 > **How to Request a Commercial License Key:**
