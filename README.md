@@ -392,7 +392,7 @@ For software inquiries, custom white-label deployments, or to obtain **1-Year** 
 | Contact Channel | Details / Direct Link |
 |---|---|
 | **Lead Developer** | **Rudra Sarkar** |
-| **Support Email** | [contact@RUDRA SARKAR](rudrasarkar02@gmail.com) |
+| **Support Email** | [contact@RUDRA SARKAR] (rudrasarkar02@gmail.com) |
 | **Official Website / Repo** | [SmartRetail GitHub Repository](https://github.com/Rudra031/Retail-Shop-Management-System/) |
 
 > [!TIP]
