@@ -392,8 +392,8 @@ For software inquiries, custom white-label deployments, or to obtain **1-Year** 
 | Contact Channel | Details / Direct Link |
 |---|---|
 | **Lead Developer** | **Rudra Sarkar** |
-| **Support Email** | [contact@RRUDRA SARKAR](rudrasarkar02@gmail.com) |
-| **Official Website / Repo** | [SmartRetail GitHub Repository](https://github.com/your-username/smart-retail-pos) |
+| **Support Email** | [contact@RUDRA SARKAR](rudrasarkar02@gmail.com) |
+| **Official Website / Repo** | [SmartRetail GitHub Repository](https://github.com/Rudra031/smart-retail-pos) |
 
 > [!TIP]
 > **How to Request a Commercial License Key:**
